@@ -1,3 +1,3 @@
 function cc (){
-    return 'cc'
+    return 
 }
