@@ -1,3 +1,3 @@
 function cc (){
-    return 
+    return 'a'
 }
